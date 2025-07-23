@@ -41,6 +41,5 @@
 ---
 
 #### 📊 GitHub Stats  
-![Lina’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Melaan99&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Melaan99&layout=compact&theme=radical)
+![melaan99's Stats](https://github-readme-stats.vercel.app/api?username=melaan99&theme=buefy&show_icons=true&hide_border=false&count_private=true)
 
