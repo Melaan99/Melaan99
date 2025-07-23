@@ -40,8 +40,7 @@
  
 ---
 
-#### 📊 GitHub Stats  
+#### 📊 GitHub Stats   
   [![Melaan99's Stats](https://awesome-github-stats.azurewebsites.net/user-stats/melaan99?cardType=octocat&theme=vue-dark&preferLogin=false)](https://git.io/awesome-stats-card)
-  
   ![Melaan99's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=melaan99&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 
