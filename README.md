@@ -1,6 +1,6 @@
 ## Hi there 👋 I’m Lina María Ferrer Rodríguez
 
-🎓 **Bioinformatician turned Web Developer** with 3️⃣ years of professional experience building responsive, accessible, and beautiful interfaces. I also teach AI in Python at my alma mater, so expect a dash of machine‑learning curiosity here!
+🎓 **Bioinformatics and  Web Development** with 3️⃣ years of professional experience building responsive, accessible, and beautiful interfaces. I also teach AI in Python at my alma mater, so expect a dash of machine‑learning curiosity here!
 
 ---
 
