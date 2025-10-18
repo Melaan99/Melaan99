@@ -34,7 +34,8 @@
 ### 📫 How to Reach Me  
 - 📧 melaan999@gmail.com  
 - 📱 +53 553 662 75  
-- 🔗 [GitHub](https://github.com/Melaan99) · no LinkedIn yet  
+- 🔗 [GitHub](https://github.com/Melaan99) 
+-🔗 [LinkedIn]([https://github.com/Melaan99](https://www.linkedin.com/in/lina-maria-ferrer-rodriguez-37119a37a/))
 
 ### ⚡ Fun Fact  
  
